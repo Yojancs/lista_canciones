@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "exportedAt": 1792768774972,
+  "songs": [
+    {
+      "title": "Hay Libertad",
+      "artist": " ",
+      "key": "D",
+      "bpm": 72,
+      "tags": [
+        "worship",
+        "freedom"
+      ],
+      "content": "{title: Hay Libertad}\n{artist: }\n{key: D}\n{tags: worship, freedom}\n{bpm: 72}\n\n{start_of_tab: Intro}\nD | G | Bm | A (x2)\n{end_of_tab}\n\n{start_of_verse: Verso 1}\n       G                 D\nLas cadenas de la muerte me quitó\n     Bm                    A              G D      Bm A\nPara mí ya no hay condenación, hay libertad, libertad\n          G               D\nSiendo esclavo del pecado me libró\n       Bm                   A          G  D     A\nEn la cruz compró mi redención, y libertad, libertad\n{end_of_verse}\n\n{start_of_chorus}\n              D                   G\nRompió mis cadenas, me dio vida nueva\n               Bm              A\nY al fondo del mar echó mi maldad\n            D                  G\nLavó mis pecados y me ha perdonado\n           Bm           A           D | G | Bm | A\nSolo en el nombre de Jesús hay libertad\n{end_of_chorus}\n\n{start_of_verse: Verso 2}\n       G                          D\nYo proclamo al que en la cruz por mí murió\n      Bm             A            G  D      Bm A\nY cambió mi duro corazón por libertad, libertad\n     G                   D\nEl poder de su evangelio me salvó\n        Bm               A           G  D      A\nY no me avergüenzo del Señor mi libertad, libertad\n{end_of_verse}\n\n{start_of_chorus}\n              D                   G\nRompió mis cadenas, me dio vida nueva\n               Bm              A\nY al fondo del mar echó mi maldad\n            D                  G\nLavó mis pecados y me ha perdonado\n           Bm           A           D | G | Bm | A\nSolo en el nombre de Jesús hay libertad\n{end_of_chorus}\n\n{start_of_bridge}\n          D          A         Bm    G      D  A\nAl que el Hijo, hace libre, es libre  en verdad\n          D          A         G           D   A\nAl que el Hijo, hace libre, es libre en verdad\n          D          A         Bm    G      D  A\nAl que el Hijo, hace libre, es libre  en verdad\n          D          A         G           D\nAl que el Hijo, hace libre, es libre en verdad\n{end_of_bridge}",
+      "id": "8671b9c8-a34b-4068-a3b6-196e3fbcb622",
+      "createdAt": 1792768424930,
+      "updatedAt": 1792768424930
+    },
+    {
+      "title": "El Dios Que Adoramos (En Vivo)",
+      "artist": "Gracia Soberana Música & Adoración La IBI",
+      "key": "F#",
+      "bpm": 110,
+      "duration": 333,
+      "tags": [
+        "christian"
+      ],
+      "content": "{key: F#}\n{bpm: 110}\n\n[INTRO]\n[F#] [C#] [D#m] [B] [F#] [C#] [x2]\n{start_of_verse: Verso 1}\nEl D[F#]ios que hizo los cielos y la [C#]tierra\nCon el poder de Su pa[D#m]labra\nReina con autorid[B]ad\nEl D[F#]ios que aun los vientos le ob[C#]edecen\nUna palabra es sufic[D#m]iente\nPara los muertos levant[B]ar\n{end_of_verse}\n\n{start_of_verse: Pre-Coro }\nNadie [B]es como El, o[C#]h gran Yo Soy\n{end_of_verse}\n\nCORO       Tú eres el D[F#]ios que adoramos\nTodopoder[C#]oso y Soberano\nGrande en mise[D#m]ri---c[B]ordia y po[F#]der para sal[C#]var\nTú eres el D[F#]ios que adoramos\nQuien derrotó la m[C#]uerte y el pecado\nGlor[D#m]ioso Redent[B]or y R[D#m]ey, t[C#]e adoramos\n\nMIDTRO     F# - C# - D#m - B - F# - C#\n\nVERSO 2    El D[F#]ios que descendió desde Su t[C#]rono\nPara llevar sobre sus h[D#m]ombros\nNuestra culpa y transgres[B]ión\nJes[F#]ús, exaltado sobre t[C#]odo\nNombre sobre todo n[D#m]ombre\nSolo en El hay Salv[B]ación\n\nPRE-CORO\nCORO\nPUENTE     B - C# - B/D# - A#m\n[B] [C#] [B/D#] [C#/F]\n\nA Él s[B]ea la gloria y [C#]el poder\nTodo [B/D#]es de Él y p[C#]ara El\nA Él s[B]ea la gloria y [C#]el poder\nTodo [B/D#]es de Él y p[C#]ara El\nCORO\n[OUTRO]\n[F#] [C#] [D#m] [B] [F#] [C#] [F#]",
+      "id": "a294a302-351a-4cfc-9c7d-cd08f0d640e3",
+      "createdAt": 1792767879955,
+      "updatedAt": 1792768237532
+    }
+  ],
+  "setlists": []
+}

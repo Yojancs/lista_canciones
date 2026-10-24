@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": 1792772498793,
+  "exportedAt": 1792865860626,
   "songs": [
     {
       "id": "8671b9c8-a34b-4068-a3b6-196e3fbcb622",
@@ -31,12 +31,12 @@
       "updatedAt": 1792768237532
     },
     {
-      "id": "26424a24-d677-4653-b090-65d28d6403b1",
       "title": "Por mi murio",
       "artist": "Hillsong - Marcos Barrientos ",
       "key": "Bm",
       "bpm": 153,
       "duration": 339,
+      "scrollSpeed": 7,
       "tags": [
         "worship",
         "amor",
@@ -50,11 +50,13 @@
           "size": 33757
         }
       ],
-      "content": "{title: Por mi murio}\n{artist: Hillsong - Marcos Barrientos }\n{key: Bm}\n{tags: worship, amor, cruz}\n\n{start_of_tab: Intro}\n{bpm: 153}\nBm  G  D  A  (x2)\n{end_of_tab}\n{comment: Letra ,for=vocals}\n{comment: Entra la banda con fuerza}\n{start_of_verse: Verso 1}\n[Bm]LA SANGRE DE [G]JESÚS ME [D]REDIMIÓ\n[A]ME PERDONÓ Y [Bm]LIBERTAD ME DIO\n[G]TU MAJESTAD ESTÁ [D]DENTRO DE MÍ\n[A]POR SIEMPRE CREO EN TI\n[Bm]POR SIEMPRE CREO EN TI\n{end_of_verse}\n\n{comment_italic: Suave, solo teclado y voz}\n{start_of_verse: Verso 2}\n[G]ME INUNDAS CON JUSTICIA CON TU [D]AMOR\n[A]TU GRACIA CAUTIVÓ MI [Bm]CORAZÓN\n[G]TU ESPÍRITU ME GUÍA A LA [D]VERDAD\n[A]TU AMOR NO FALLARÁ\n[G]TU AMOR NO FALLARÁ [G] [G] [G] [G]...\n{end_of_verse}\n\n{comment_box: ¡Entra el coro con todo!}\n{start_of_chorus}\n[D]POR AMOR DIOS DIO SU [A]HIJO ÚNICO [Bm]JESÚS [G]\n[D]POR MÍ MURIÓ ME DIO [A]ESPERANZA Y [Bm]SALVACIÓN [G]\n[D]EN MI LUGAR SU VIDA [A]ENTREGÓ EN LA [Bm]CRUZ [G]\n[D]ME AMÓ, ME AMÓ [A]AUN SIN [Bm]MERECERLO [G]\n{end_of_chorus}\n\n{start_of_tab: Solo, for=guitar}\nD  A  Bm  G\n{end_of_tab}\n\n{comment: Batería baja la intensidad, for=drums}\n{start_of_bridge: Puente}\n[Bm]ME INUNDAS CON [G]JUSTICIA Y CON TU [D]AMOR\n[A]TU GRACIA CAUTIVÓ MI [Bm]CORAZÓN\n[G]TU ESPÍRITU ME GUÍA A LA [D]VERDAD\n[A]TU AMOR NO FALLARÁ\n[G]TU AMOR NO FALLARÁ [G] [G] [G] [G]...\n{end_of_bridge}\n\n{comment: Coro x3}\n{start_of_chorus}\n[D]POR AMOR DIOS DIO SU [A]HIJO ÚNICO [Bm]JESÚS [G]\n[D]POR MÍ MURIÓ ME DIO [A]ESPERANZA Y [Bm]SALVACIÓN [G]\n[D]EN MI LUGAR SU VIDA [A]ENTREGÓ EN LA [Bm]CRUZ [G]\n[D]ME AMÓ, ME AMÓ [A]AUN SIN [Bm]MERECERLO [G]\n{end_of_chorus}\n\n{start_of_tab: Final}\nD  A  Bm  G  (x4)\n{end_of_tab}",
+      "content": "{title: Por mi murio}\n{artist: Hillsong - Marcos Barrientos }\n{key: Bm}\n{tags: worship, amor, cruz}\n{bpm: 153}\n\n[Bm]  [G]  [D]  [A]\n{comment: Letra ,for=vocals}\n{comment: Entra la banda con fuerza}\n{start_of_verse: Verso 1}\n[Bm]LA SANGRE DE [G]JESÚS ME [D]REDIMIÓ\n[A]ME PERDONÓ Y [Bm]LIBERTAD ME DIO\n[G]TU MAJESTAD ESTÁ [D]DENTRO DE MÍ\n[A]POR SIEMPRE CREO EN TI\n[Bm]POR SIEMPRE CREO EN TI\n{end_of_verse}\n\n{comment_italic: Suave, solo teclado y voz}\n{start_of_verse: Verso 2}\n[G]ME INUNDAS CON JUSTICIA CON TU [D]AMOR\n[A]TU GRACIA CAUTIVÓ MI [Bm]CORAZÓN\n[G]TU ESPÍRITU ME GUÍA A LA [D]VERDAD\n[A]TU AMOR NO FALLARÁ\n[G]TU AMOR NO FALLARÁ [G] [G] [G] [G]...\n{end_of_verse}\n\n{comment_box: ¡Entra el coro con todo!}\n{start_of_chorus}\n[D]POR AMOR DIOS DIO SU [A]HIJO ÚNICO [Bm]JESÚS [G]\n[D]POR MÍ MURIÓ ME DIO [A]ESPERANZA Y [Bm]SALVACIÓN [G]\n[D]EN MI LUGAR SU VIDA [A]ENTREGÓ EN LA [Bm]CRUZ [G]\n[D]ME AMÓ, ME AMÓ [A]AUN SIN [Bm]MERECERLO [G]\n{end_of_chorus}\n\n{start_of_tab: Solo, for=guitar}\nD  A  Bm  G\n{end_of_tab}\n\n{comment: Batería baja la intensidad, for=drums}\n{start_of_bridge: Puente}\n[Bm]ME INUNDAS CON [G]JUSTICIA Y CON TU [D]AMOR\n[A]TU GRACIA CAUTIVÓ MI [Bm]CORAZÓN\n[G]TU ESPÍRITU ME GUÍA A LA [D]VERDAD\n[A]TU AMOR NO FALLARÁ\n[G]TU AMOR NO FALLARÁ [G] [G] [G] [G]...\n{end_of_bridge}\n\n{comment: Coro x3}\n{start_of_chorus}\n[D]POR AMOR DIOS DIO SU [A]HIJO ÚNICO [Bm]JESÚS [G]\n[D]POR MÍ MURIÓ ME DIO [A]ESPERANZA Y [Bm]SALVACIÓN [G]\n[D]EN MI LUGAR SU VIDA [A]ENTREGÓ EN LA [Bm]CRUZ [G]\n[D]ME AMÓ, ME AMÓ [A]AUN SIN [Bm]MERECERLO [G]\n{end_of_chorus}\n\n{start_of_tab: Final}\nD  A  Bm  G  (x4)\n{end_of_tab}",
+      "id": "26424a24-d677-4653-b090-65d28d6403b1",
       "createdAt": 1792768948361,
-      "updatedAt": 1792771055525
+      "updatedAt": 1792774080107
     },
     {
+      "id": "43526f82-a057-4441-9ee6-f02d239c8895",
       "title": "Canción de Prueba - Mi Parte",
       "artist": "Plantilla",
       "key": "G",
@@ -64,10 +66,28 @@
         "plantilla"
       ],
       "content": "{title: Canción de Prueba - Mi Parte}\n{artist: Plantilla}\n{key: G}\n{tags: prueba, plantilla}\n{bpm: 80}\n\n{comment: Esta es una canción de prueba para ver cómo funciona \"Mi parte\"}\n\n{start_of_tab: Intro, for=guitar}\nG  D  Em  C  (x2)\n{end_of_tab}\n\n{comment_italic: Entra suave el piano, for=keys}\n{start_of_note: Voicings de teclado, for=keys}\nGmaj7  D/F#  Em7  Cmaj7\n{end_of_note}\n\n{start_of_verse: Verso 1 (todos)}\n[G]Esta es la [D]primera línea [Em]de la canción [C]\n[G]Y esta es la [D]segunda línea [C]para cantar\n{end_of_verse}\n\n{start_of_chorus: Coro (todos)}\n[C]Este es el [G]coro que [D]todos cantamos [Em]\n[C]Y todos [G]juntos lo [D]proclamamos\n{end_of_chorus}\n\n{comment_box: ¡Solo de guitarra! Banda baja, for=guitar}\n{start_of_tab: Solo de guitarra, for=guitar}\ne|--12--10--8--7--|\nB|----------------|\nG|----------------|\n{end_of_tab}\n\n{comment: Guitarra hace palm mute, for=guitar}\n{comment: Teclado hace pad sostenido, for=keys}\n\n{start_of_verse: Verso 2 (solo voz)}\n[G]Esta estrofa la [D]canta solo la [Em]voz [C]\n[G]Sin acordes [D]para que se [C]escuche mejor\n{end_of_verse}\n\n{start_of_bridge: Puente (todos)}\n[Em]Este puente es [C]para toda la [G]banda [D]\n[Em]Todos juntos [C]en una sola [D]voz\n{end_of_bridge}\n\n{comment_box: Última vez el coro, más fuerte, for=vocals}\n{start_of_chorus: Coro Final (todos)}\n[C]Este es el [G]coro que [D]todos cantamos [Em]\n[C]Y todos [G]juntos lo [D]proclamamos\n\nAumento de prueba \n{end_of_chorus}\n\n{comment: Aviso final para la banda, todos salen juntos}",
-      "id": "43526f82-a057-4441-9ee6-f02d239c8895",
       "createdAt": 1792771377824,
       "updatedAt": 1792772360050
     }
   ],
-  "setlists": []
+  "setlists": [
+    {
+      "name": "Prueba 1 ",
+      "date": "2026-12-25",
+      "venue": "IEP LA TOMILLA",
+      "sets": [
+        {
+          "name": "Set 1",
+          "songIds": [
+            "43526f82-a057-4441-9ee6-f02d239c8895",
+            "26424a24-d677-4653-b090-65d28d6403b1",
+            "8671b9c8-a34b-4068-a3b6-196e3fbcb622"
+          ]
+        }
+      ],
+      "id": "810050f1-03f9-4615-ba82-5c8b9d911899",
+      "createdAt": 1792773113480,
+      "updatedAt": 1792773190345
+    }
+  ]
 }

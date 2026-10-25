@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": 1792865860626,
+  "exportedAt": 1792890242704,
   "songs": [
     {
       "id": "8671b9c8-a34b-4068-a3b6-196e3fbcb622",
@@ -31,6 +31,7 @@
       "updatedAt": 1792768237532
     },
     {
+      "id": "26424a24-d677-4653-b090-65d28d6403b1",
       "title": "Por mi murio",
       "artist": "Hillsong - Marcos Barrientos ",
       "key": "Bm",
@@ -51,7 +52,6 @@
         }
       ],
       "content": "{title: Por mi murio}\n{artist: Hillsong - Marcos Barrientos }\n{key: Bm}\n{tags: worship, amor, cruz}\n{bpm: 153}\n\n[Bm]  [G]  [D]  [A]\n{comment: Letra ,for=vocals}\n{comment: Entra la banda con fuerza}\n{start_of_verse: Verso 1}\n[Bm]LA SANGRE DE [G]JESÚS ME [D]REDIMIÓ\n[A]ME PERDONÓ Y [Bm]LIBERTAD ME DIO\n[G]TU MAJESTAD ESTÁ [D]DENTRO DE MÍ\n[A]POR SIEMPRE CREO EN TI\n[Bm]POR SIEMPRE CREO EN TI\n{end_of_verse}\n\n{comment_italic: Suave, solo teclado y voz}\n{start_of_verse: Verso 2}\n[G]ME INUNDAS CON JUSTICIA CON TU [D]AMOR\n[A]TU GRACIA CAUTIVÓ MI [Bm]CORAZÓN\n[G]TU ESPÍRITU ME GUÍA A LA [D]VERDAD\n[A]TU AMOR NO FALLARÁ\n[G]TU AMOR NO FALLARÁ [G] [G] [G] [G]...\n{end_of_verse}\n\n{comment_box: ¡Entra el coro con todo!}\n{start_of_chorus}\n[D]POR AMOR DIOS DIO SU [A]HIJO ÚNICO [Bm]JESÚS [G]\n[D]POR MÍ MURIÓ ME DIO [A]ESPERANZA Y [Bm]SALVACIÓN [G]\n[D]EN MI LUGAR SU VIDA [A]ENTREGÓ EN LA [Bm]CRUZ [G]\n[D]ME AMÓ, ME AMÓ [A]AUN SIN [Bm]MERECERLO [G]\n{end_of_chorus}\n\n{start_of_tab: Solo, for=guitar}\nD  A  Bm  G\n{end_of_tab}\n\n{comment: Batería baja la intensidad, for=drums}\n{start_of_bridge: Puente}\n[Bm]ME INUNDAS CON [G]JUSTICIA Y CON TU [D]AMOR\n[A]TU GRACIA CAUTIVÓ MI [Bm]CORAZÓN\n[G]TU ESPÍRITU ME GUÍA A LA [D]VERDAD\n[A]TU AMOR NO FALLARÁ\n[G]TU AMOR NO FALLARÁ [G] [G] [G] [G]...\n{end_of_bridge}\n\n{comment: Coro x3}\n{start_of_chorus}\n[D]POR AMOR DIOS DIO SU [A]HIJO ÚNICO [Bm]JESÚS [G]\n[D]POR MÍ MURIÓ ME DIO [A]ESPERANZA Y [Bm]SALVACIÓN [G]\n[D]EN MI LUGAR SU VIDA [A]ENTREGÓ EN LA [Bm]CRUZ [G]\n[D]ME AMÓ, ME AMÓ [A]AUN SIN [Bm]MERECERLO [G]\n{end_of_chorus}\n\n{start_of_tab: Final}\nD  A  Bm  G  (x4)\n{end_of_tab}",
-      "id": "26424a24-d677-4653-b090-65d28d6403b1",
       "createdAt": 1792768948361,
       "updatedAt": 1792774080107
     },
@@ -68,10 +68,134 @@
       "content": "{title: Canción de Prueba - Mi Parte}\n{artist: Plantilla}\n{key: G}\n{tags: prueba, plantilla}\n{bpm: 80}\n\n{comment: Esta es una canción de prueba para ver cómo funciona \"Mi parte\"}\n\n{start_of_tab: Intro, for=guitar}\nG  D  Em  C  (x2)\n{end_of_tab}\n\n{comment_italic: Entra suave el piano, for=keys}\n{start_of_note: Voicings de teclado, for=keys}\nGmaj7  D/F#  Em7  Cmaj7\n{end_of_note}\n\n{start_of_verse: Verso 1 (todos)}\n[G]Esta es la [D]primera línea [Em]de la canción [C]\n[G]Y esta es la [D]segunda línea [C]para cantar\n{end_of_verse}\n\n{start_of_chorus: Coro (todos)}\n[C]Este es el [G]coro que [D]todos cantamos [Em]\n[C]Y todos [G]juntos lo [D]proclamamos\n{end_of_chorus}\n\n{comment_box: ¡Solo de guitarra! Banda baja, for=guitar}\n{start_of_tab: Solo de guitarra, for=guitar}\ne|--12--10--8--7--|\nB|----------------|\nG|----------------|\n{end_of_tab}\n\n{comment: Guitarra hace palm mute, for=guitar}\n{comment: Teclado hace pad sostenido, for=keys}\n\n{start_of_verse: Verso 2 (solo voz)}\n[G]Esta estrofa la [D]canta solo la [Em]voz [C]\n[G]Sin acordes [D]para que se [C]escuche mejor\n{end_of_verse}\n\n{start_of_bridge: Puente (todos)}\n[Em]Este puente es [C]para toda la [G]banda [D]\n[Em]Todos juntos [C]en una sola [D]voz\n{end_of_bridge}\n\n{comment_box: Última vez el coro, más fuerte, for=vocals}\n{start_of_chorus: Coro Final (todos)}\n[C]Este es el [G]coro que [D]todos cantamos [Em]\n[C]Y todos [G]juntos lo [D]proclamamos\n\nAumento de prueba \n{end_of_chorus}\n\n{comment: Aviso final para la banda, todos salen juntos}",
       "createdAt": 1792771377824,
       "updatedAt": 1792772360050
+    },
+    {
+      "title": "25 Santo, Santo, Santo",
+      "artist": "Himnos IEP",
+      "key": "C",
+      "tags": [
+        "himno",
+        "adoración",
+        "trinidad"
+      ],
+      "content": "{title: 25 Santo, Santo, Santo}\n{artist: Himnos IEP}\n{key: C}\n{tags: himno, adoración, trinidad}\n\n{start_of_verse: Estrofa 1}\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]Señor omnipo[C]tente,\n[G/B]siempre el labio mío [Am]loores [G]te [D]dará. [D7] [G]\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]Te adoro reve[C]rente,\n[Am]Dios en [C]tres per[F]sonas, [C]\n[F]bendita [G]Trini[C]dad.\n{end_of_verse}\n\n{start_of_verse: Estrofa 2}\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]En numeroso [C]coro\n[G/B]santos escogidos [Am]te [G]adoran [D]sin ce[D7]sar, [G]\n[C]de ale[Am]gría [G]lle[C]nos,\n[F]y sus coronas de [C]oro\n[Am]rinden [C]ante el [F]trono [C]\n[F]y el [G]cristalino [C]mar.\n{end_of_verse}\n\n{start_of_verse: Estrofa 3}\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]La inmensa muche[C]dumbre\n[G/B]de ángeles que cumplen [Am]tu [G]santa [D]volun[D7]tad [G]\n[C]ante [Am]Ti se [G]pos[C]tra,\n[F]bañada de tu [C]lumbre;\n[Am]ante [C]Ti que has [F]sido, [C]\n[F]que [G]eres y se[C]rás.\n{end_of_verse}\n\n{start_of_verse: Estrofa 4}\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]Por más que estés ve[C]lado,\n[G/B]e imposible sea tu [Am]gloria [G]contem[D]plar, [D7] [G]\n[C]santo [Am]Tú eres [G]so[C]lo,\n[F]y nadie hay a tu [C]lado,\n[Am]en po[C]der per[F]fecto, [C]\n[F]pureza [G]y cari[C]dad.\n{end_of_verse}\n\n{start_of_verse: Estrofa 5}\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]La gloria de tu [C]nombre\n[G/B]vemos en tus obras [Am]en [G]cielo, [D]tierra [D7]y [G]mar.\n[C]¡Santo, [Am]santo, [G]santo! [C]\n[F]Te adorará todo [C]hombre;\n[Am]Dios en [C]tres per[F]sonas, [C]\n[F]bendita [G]Trini[C]dad.\n{end_of_verse}",
+      "id": "100c5ce7-fbb7-4026-be9d-c76fc4b5c808",
+      "createdAt": 1792881363146,
+      "updatedAt": 1792881363146
+    },
+    {
+      "title": "Miraré Al Rey",
+      "artist": "Adoración La IBI",
+      "key": "F#",
+      "bpm": 104,
+      "duration": 272,
+      "tags": [
+        "worship",
+        "rey",
+        "fe",
+        "confianza"
+      ],
+      "content": "{title: Miraré Al Rey}\n{artist: Adoración La IBI}\n{key: F#}\n{tags: worship, rey, fe, confianza}\n{bpm: 104}\n{c: Intro}\n[D#m] [B] [F#]\n\n{start_of_verse: Primera Parte}\n[D#m]Veo los [B]tiempos que se oscu[F#]recen\n[D#m]Azota el [B]viento y me estre[F#]mece\n[D#m]El ene[B]migo luce más [F#]fuerte\n[D#m]Contra los [B]justos planea la [F#]muerte\n{end_of_verse}\n\n{start_of_verse: Pré-Refrão 1}\n[C#]¿En quién mis [B]ojos fija[C#]ré?\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[D#m]Miraré al [B]Rey, al Dios inmor[F#]tal\n[D#m]Confiaré en [B]Él, su ayuda ven[F#]drá\n[D#m]Cantaré con [B]fe, mi Dios en su [F#]trono es[C#]tá\n{end_of_chorus}\n\n{start_of_verse: Segunda Parte}\n[D#m]Mi Dios go[B]bierna desde los [F#]cielos\n[D#m]Todo lo ob[B]serva aun lo se[F#]creto\n[D#m]Hará jus[B]ticia, guiará a su [F#]pueblo\n[D#m]Nadie de[B]rriba su funda[F#]mento\n{end_of_verse}\n\n{start_of_verse: Pré-Refrão 2}\n[C#]¡En Él mis [B]ojos fija[C#]ré!\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[D#m]Miraré al [B]Rey, al Dios inmor[F#]tal\n[D#m]Confiaré en [B]Él, su ayuda ven[F#]drá\n[D#m]Cantaré con [B]fe, mi Dios en su [F#]trono es[C#]tá\n{end_of_chorus}\n\n{c: Interludio}\n[G#m] [B] [F#] [C#]\n\n{start_of_bridge: Puente}\n[G#m]Yo no temeré\n[B]Yo no huiré\n[F#]No me moveré\n[C#]Solo espero en Él\n{end_of_bridge}\n\n{start_of_chorus: Estribillo}\n[D#m]Miraré al [B]Rey, al Dios inmor[F#]tal\n[D#m]Confiaré en [B]Él, su ayuda ven[F#]drá\n[D#m]Cantaré con [B]fe, mi Dios en su [F#]trono es[C#]tá\n{end_of_chorus}\n\n{c: Puente final}\n[D#m] [B] [F#]\n[D#m]Miraré al [B]Rey [F#]\n\n{c: Final}\n[D#m]¡Miraré al [C#]Re[B]y!",
+      "id": "11f39121-0037-45a6-9b1b-2a2ef35091a0",
+      "createdAt": 1792880912040,
+      "updatedAt": 1792880912040
+    },
+    {
+      "title": "Venga tu Reino",
+      "artist": "Adoración La IBI",
+      "key": "A",
+      "bpm": 115,
+      "tags": [
+        "worship",
+        "reino",
+        "alabanza"
+      ],
+      "content": "{title: Venga tu Reino}\n{artist: Adoración La IBI}\n{key: A}\n{bpm: 115}\n{time: 4/4}\n{tags: worship, reino, alabanza}\n\n{c: Intro (4x)}\n[A] [E] [F#m] [D]\n\n{start_of_verse: Verso 1}\n[E]Tu causa oh [D]Señor,\n[A]Llena nuestro ser\n[E]Que a Cristo el [D]Salvador\n[F#m]Puedan conocer\n[E]No a nosotros [D]Dios,\n[A/C#]La gloria sea a [D]Ti\n[E]La cruz ya nos [D]salvó\n[A/C#]Tu reino venga oh [D]Dios\n{end_of_verse}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Intro (2x)}\n[A] [E] [F#m] [D]\n\n{start_of_verse: Verso 2}\n[E]Danos Tu fuerza oh [D]Dios\n[A]Valor para hablar\n[E]Muestra Tu gran po[D]der\n[F#m]En la debilidad\n[E]Úsanos oh Se[D]ñor\n[A/C#]Como quieras [D]Tú\n[E]Por gracia Tu evan[D]gelio\n[A/C#]Llevaremos [D]Dios\n{end_of_verse}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Interludio (2x)}\n[A] [E] [F#m] [D]\n\n{start_of_chorus: Coro 2}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n{end_of_chorus}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Salida (2x)}\n[A] [E] [F#m] [D]\n\n{c: Final}\n[A] [E] [D]",
+      "id": "597c1064-5686-4c45-8409-f2f238431cbc",
+      "createdAt": 1792869682003,
+      "updatedAt": 1792869682003
+    },
+    {
+      "title": "A Ti la Gloria",
+      "artist": "Adoración La IBI",
+      "key": "A",
+      "bpm": 131,
+      "tags": [
+        "worship",
+        "gloria",
+        "adoración"
+      ],
+      "content": "{title: A Ti la Gloria}\n{artist: Adoración La IBI}\n{key: A}\n{tags: worship, gloria, adoración}\n{bpm: 131}\n\n{c: Intro (2x)}\n[A] [E/G#] [F#m] [D]\n\n{start_of_verse: Verso 1}\n[A]Oh gran Se[E/G#]ñor, me a[F#m]sombra tu gran[E]deza\n[G]Con solo ha[Bm]blar sostienes la cre[A]ación\n[A]Harás cum[E/G#]plir siempre [F#m]todos tus pla[E]nes\n[G]Para tra[Bm]er la gloria para [Esus]Ti [E]\n{end_of_verse}\n\n{start_of_chorus: Coro}\n[A]A Ti la glo[E]ria, [A/C#]glo[D]ria\n[A]Alzamos nuestras [E]voces para ador[A/C#]ar [D]\n[A]A Ti la glo[E]ria, [A/C#]glo[D]ria\n[A]Daremos solo a [E]Ti ado[G]ración [Bm]\n{end_of_chorus}\n\n{start_of_verse: Verso 2}\n[A]Con gran po[E/G#]der, Tú [F#m]mueves las estre[E]llas\n[G]El viento, el [Bm]mar, y todo lo que [A]hay\n[A]En mi an[E/G#]dar, mis [F#m]gozos y triste[E]zas\n[G]Orquestas [Bm]Tú, para dar [Esus]gloria a [E]Ti\n{end_of_verse}\n\n{start_of_chorus: Coro}\n[A]A Ti la glo[E]ria, [A/C#]glo[D]ria\n[A]Alzamos nuestras [E]voces para ador[A/C#]ar [D]\n[A]A Ti la glo[E]ria, [A/C#]glo[D]ria\n[A]Daremos solo a [E]Ti ado[G]ración [Bm]\n{end_of_chorus}\n\n{c: Puente instrumental (4x)}\n[F#m] [E/G#] [Bm] [D]\n\n{start_of_verse: Verso 3}\n[A]Son altos y pro[E/G#]fundos [F#m]tus cami[E]nos\n[G]Bueno eres [Bm]Tú y de esto can[A]taré\n[A]Que por a[E/G#]mor Tu [F#m]hijo entre[E]gaste\n[G]Confío en [Bm]Ti y espero en [Esus]Ti, mi [E]rey\n{end_of_verse}\n\n{start_of_chorus: Coro}\n[A]A Ti la glo[E]ria, [A/C#]glo[D]ria\n[A]Alzamos nuestras [E]voces para ador[A/C#]ar [D]\n[A]A Ti la glo[E]ria, [A/C#]glo[D]ria\n[A]Daremos solo a [E]Ti ado[G]ración [Bm]\n{end_of_chorus}",
+      "id": "88a5c11a-9414-4fce-85fc-d2177757a9ea",
+      "createdAt": 1792879725243,
+      "updatedAt": 1792879725243
+    },
+    {
+      "title": "Por Siempre",
+      "artist": "Isaac Moraleja",
+      "key": "C",
+      "bpm": 75,
+      "tags": [
+        "worship",
+        "resurrección",
+        "gloria",
+        "aleluya"
+      ],
+      "content": "{title: Por Siempre}\n{artist: Isaac Moraleja}\n{key: C}\n{tags: worship, resurrección, gloria, aleluya}\n{bpm: 75}\n{c: Intro (2x)}\n[C] [G] [Dm] [F]\n\n{start_of_verse: Verso 1}\n[C]La luna entriste[G]ció\n[Am]el sol se apa[G]gó\n[F]cayó el Salvador, del [C]mundo.\n[C]Su cuerpo en la [G]cruz\n[Am]Su sangre derra[G]mó\n[F]El peso del pecado, [C]Sobre Él.\n{end_of_verse}\n\n{c: Interludio}\n[C] [G] [Dm] [F]\n\n{start_of_verse: Verso 2}\n[C]Al fin él susp[G]iró\n[Am]El cielo lo igno[G]ró\n[F]El hijo descendió, En [C]tinieblas.\n[C]La guerra en el se[G]ol\n[Am]La muerte derro[G]tó\n[F]El infierno fue al fin, [C]vencido.\n{end_of_verse}\n\n{start_of_verse: Verso 3}\n[C]La tierra retum[G]bó\n[Am]La piedra Él qui[G]tó\n[F]Su amor perfecto, Siempre [C]vencerá.\n[C/E]El Rey resuci[G]tó\n[Am]La muerte derro[G]tó\n[F]Ganando la vic[C]toria.\n{end_of_verse}\n\n{start_of_chorus: Coro}\n[C]Por siempre Él la [G]gloria es\n[Am]por siempre exal[F]tado es\n[C]Por siempre Él es [G]digno\n[Am]vivo es[G]tá\n[F]vivo es[C]tá.\n{end_of_chorus}\n\n{c: Interlude}\n[C] [G] [Am] [F]\n\n{start_of_bridge: Puente (6x)}\n[C]Canto Alelu[G]ya\n[Am]Canto Alelu[G]ya\n[F]Canto Alelu[G]ya\n[C]El Cordero ya venció\n{end_of_bridge}",
+      "id": "8d216aed-d895-4500-b4c4-a1626d3dab6f",
+      "createdAt": 1792881050684,
+      "updatedAt": 1792881050684
+    },
+    {
+      "title": "Tu Firme Amor, Jesús",
+      "artist": "Sovering Grace",
+      "key": "C",
+      "bpm": 88,
+      "tags": [
+        "worship",
+        "amor",
+        "gracia",
+        "cruz"
+      ],
+      "content": "{title: Tu Firme Amor, Jesús}\n{artist: Sovering Grace}\n{key: C}\n{time: 4/4}\n{bpm: 88}\n{tags: worship, amor, gracia, cruz}\n\n{c: Intro}\n[C] [F] [Am] [G] [C] [F] [Am] [G]\n\n{start_of_verse: Verso 1}\n[C]Muerto y frío esta[Csus]ba mi co[C]razón, [F/C]reinaba el pecado y el [G/C]mal\n[Am/C]A mi alma en cadenas [F/C]escla[C]vizó, [F/C]no había [G/C]vergüenza o [C]pesar\n[C/E]Pero luego lle[F]gaste, [C/G]Radiante [G]Sol, [C/E]venció las ti[F]nieblas [Gsus]Tu [G]luz\n[C]De Tu her[Dm7]mosa sangre [C/E]fluyó el per[F]dón, [C/G]¡Oh, Tu [G]firme amor, [C]Jesús!\n{end_of_verse}\n\n{start_of_verse: Verso 2}\n[C]Siendo salvo aún [Csus]lucho en mi inte[C]rior, [F]en contra de la false[Gsus]dad [G]\n[Am]Siendo débil yo [F]cedo a la tenta[C]ción, [F]y clamo hacia [G]Ti al [Csus]o[C]rar\n[C/E]Luego llega Tu [F]gracia con gran po[C/G]der, [G]me das liber[C/E]tad en la [F]cruz [Gsus] [G]\n[C]Nueva fuerza y [Dm7]fe para [C/E]conten[F]der [C/G]por Tu [G]firme amor, [C]Jesús\n{end_of_verse}\n\n{start_of_verse: Verso 3}\n[Am]Lo creado está [F]bajo maldi[C]ción, [F]persisten el mal y el do[Gsus]lor [G]\n[Am]Mas el mundo es[F]pera restau[C]ración, [F]vendrá a [G]reinar nuestro [Csus]Dios [C]\n[C/E]Yo confío que al [F]fin Tú lo cum[C/G]plirás, [G]podré ver Tu [C/E]fiel recti[F]tud [Gsus] [G]\n[C]Me consola[Dm7]rás y me [C/E]sana[F]rás [C/G]en Tu [G]firme amor, [Csus]Jesús [C]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[C/E]Ante Ti todo el [F]cielo ha de tem[C/G]blar, [G]Cordero en [C/E]gran majes[F]tad [Gsus] [G]\n[C]Y al contem[Dm7]plar vamos [C/E]a can[F]tar [C/G]de Tu [G]firme [Am]amor, [F]Jesús\n[C/G]De tu [G]firme [Am]amor, [G]Jesús; [F]¡Oh, tu [C/G]firme [G]amor, [C]Jesús!\n{end_of_chorus}",
+      "id": "b5edc665-dfe1-4df7-93e9-fc529428cc84",
+      "createdAt": 1792880696991,
+      "updatedAt": 1792880696991
+    },
+    {
+      "title": "Gracia Sublime Es",
+      "artist": "En Espíritu y En Verdad",
+      "key": "B",
+      "tags": [
+        "worship",
+        "gracia",
+        "cruz"
+      ],
+      "content": "{title: Gracia Sublime Es}\n{artist: En Espíritu y En Verdad}\n{key: B}\n{tags: worship, gracia, cruz}\n\n{c: Intro}\n[B] [E] [B] [E]\n\n{start_of_verse: Primera Parte}\n[B]Quien rompe el poder del pecado\n[E]Su amor es fuerte y poderoso\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n\n[B]Conmueve al mundo con su estruendo\n[E]Y nos asombra con maravillas\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B] [E]\n{end_of_chorus}\n\n{start_of_verse: Segunda Parte}\n[B]Pusiste en orden todo el caos\n[E]Nos adoptaste como tus hijos\n[G#m]El rey de gloria [F#]el rey de gloria\n\n[B]El que gobierna con su justicia\n[E]Y resplandece con su belleza\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Interludio}\n[E] [B] [E]\n\n{start_of_bridge: Puente}\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Tú eres digno\n{end_of_bridge}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Final}\n[E] [B] [E] [B]",
+      "id": "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
+      "createdAt": 1792879547313,
+      "updatedAt": 1792879547313
+    },
+    {
+      "title": "358 Sembrare la simientre preciosa",
+      "artist": "HIMNOS IEP",
+      "key": "F#m",
+      "transposition": 0,
+      "scrollSpeed": 4,
+      "tags": [
+        "himno",
+        "siembra",
+        "evangelio"
+      ],
+      "content": "{key: F#m}\n{tags: himno, siembra, evangelio}\n\n{start_of_verse: Estrofa 1}\n{title: 358 Sembrare la simientre preciosa}\n{artist: HIMNOS IEP}\n[A]Sembraré la simiente pre[D]ciosa del [A]\n[Bm]Glorioso evange[E]lio de a[A]mor;\n[A]Sembraré, sembra[D]ré mientras [A]viva,\n[Bm]Dejaré el resul[E]tado al Se[A]ñor.\n{end_of_verse}\n\n{start_of_chorus: Coro}\n[E]Sembraré, sembra[A]ré, mientras [D]viva\n[B]Simiente de a[E]mor. Seg[A]aré, [A7]seg[D]aré, [Dm]\n[A]Al hallarme en la [E]casa de [A]Dios\n{end_of_chorus}\n\n{start_of_verse: Estrofa 2}\n[A]Sembraré en corazones sen[D]sibles la [A]\n[Bm]Doctrina del [E]Dios de per[A]dón;\n[A]Sembraré, sembra[D]ré mientras [A]viva,\n[Bm]Dejaré el resul[E]tado al Se[A]ñor.\n{end_of_verse}\n\n{start_of_verse: Estrofa 3}\n[A]Sembraré en corazones de [D]mármol, la [A]\n[Bm]Bendita pa[E]labra de [A]Dios;\n[A]Sembraré, sembra[D]ré mientras [A]viva,\n[Bm]Dejaré el resul[E]tado al Se[A]ñor.\n{end_of_verse}",
+      "id": "dc3271b2-a00a-4c38-9f71-aa04fe2935cc",
+      "createdAt": 1792880605844,
+      "updatedAt": 1792880646125
     }
   ],
   "setlists": [
     {
+      "id": "810050f1-03f9-4615-ba82-5c8b9d911899",
       "name": "Prueba 1 ",
       "date": "2026-12-25",
       "venue": "IEP LA TOMILLA",
@@ -85,9 +209,32 @@
           ]
         }
       ],
-      "id": "810050f1-03f9-4615-ba82-5c8b9d911899",
       "createdAt": 1792773113480,
       "updatedAt": 1792773190345
+    },
+    {
+      "name": "CULTO DOMINICAL",
+      "date": "2026-10-25",
+      "venue": "IEP LA TOMILLA",
+      "sets": [
+        {
+          "name": "Set 1",
+          "songIds": [
+            "100c5ce7-fbb7-4026-be9d-c76fc4b5c808",
+            "dc3271b2-a00a-4c38-9f71-aa04fe2935cc",
+            "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
+            "11f39121-0037-45a6-9b1b-2a2ef35091a0",
+            "8d216aed-d895-4500-b4c4-a1626d3dab6f",
+            "b5edc665-dfe1-4df7-93e9-fc529428cc84",
+            "88a5c11a-9414-4fce-85fc-d2177757a9ea",
+            "597c1064-5686-4c45-8409-f2f238431cbc"
+          ]
+        }
+      ],
+      "expectedDuration": 324000,
+      "id": "ffe28b5b-2253-4c33-8a9f-cc9bd500617b",
+      "createdAt": 1792881406995,
+      "updatedAt": 1792881624997
     }
   ]
 }

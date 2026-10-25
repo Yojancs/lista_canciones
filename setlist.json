@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": 1792894314508,
+  "exportedAt": 1792894332053,
   "songs": [
     {
       "id": "8671b9c8-a34b-4068-a3b6-196e3fbcb622",
@@ -137,7 +137,8 @@
       ],
       "content": "{title: Venga tu Reino}\n{artist: Adoración La IBI}\n{key: A}\n{bpm: 115}\n{time: 4/4}\n{tags: worship, reino, alabanza}\n\n{c: Intro (4x)}\n[A] [E] [F#m] [D]\n\n{start_of_verse: Verso 1}\n[E]Tu causa oh [D]Señor,\n[A]Llena nuestro ser\n[E]Que a Cristo el [D]Salvador\n[F#m]Puedan conocer\n[E]No a nosotros [D]Dios,\n[A/C#]La gloria sea a [D]Ti\n[E]La cruz ya nos [D]salvó\n[A/C#]Tu reino venga oh [D]Dios\n{end_of_verse}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Intro (2x)}\n[A] [E] [F#m] [D]\n\n{start_of_verse: Verso 2}\n[E]Danos Tu fuerza oh [D]Dios\n[A]Valor para hablar\n[E]Muestra Tu gran po[D]der\n[F#m]En la debilidad\n[E]Úsanos oh Se[D]ñor\n[A/C#]Como quieras [D]Tú\n[E]Por gracia Tu evan[D]gelio\n[A/C#]Llevaremos [D]Dios\n{end_of_verse}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Interludio (2x)}\n[A] [E] [F#m] [D]\n\n{start_of_chorus: Coro 2}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n{end_of_chorus}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Salida (2x)}\n[A] [E] [F#m] [D]\n\n{c: Final}\n[A] [E] [D]",
       "createdAt": 1792869682003,
-      "updatedAt": 1792891856147
+      "updatedAt": 1792892949827,
+      "scrollSpeed": 4
     },
     {
       "id": "88a5c11a-9414-4fce-85fc-d2177757a9ea",
@@ -203,6 +204,7 @@
       "updatedAt": 1792880696991
     },
     {
+      "id": "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
       "title": "Gracia Sublime Es",
       "artist": "En Espíritu y En Verdad",
       "key": "B",
@@ -221,7 +223,6 @@
         }
       ],
       "content": "{title: Gracia Sublime Es}\n{artist: En Espíritu y En Verdad}\n{key: B}\n{tags: worship, gracia, cruz}\n{bpm: 105}\n\n{c: Intro}\n[B] [E] [B] [E]\n\n{start_of_verse: Primera Parte}\n[B]Quien rompe el poder del pecado\n[E]Su amor es fuerte y poderoso\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n\n[B]Conmueve al mundo con su estruendo\n[E]Y nos asombra con maravillas\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B] [E]\n{end_of_chorus}\n\n{start_of_verse: Segunda Parte}\n[B]Pusiste en orden todo el caos\n[E]Nos adoptaste como tus hijos\n[G#m]El rey de gloria [F#]el rey de gloria\n\n[B]El que gobierna con su justicia\n[E]Y resplandece con su belleza\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Interludio}\n[E] [B] [E]\n\n{start_of_bridge: Puente}\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Tú eres digno\n{end_of_bridge}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Final}\n[E] [B] [E] [B]",
-      "id": "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
       "createdAt": 1792879547313,
       "updatedAt": 1792894305988
     },

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": 1792894332053,
+  "exportedAt": 1792940983324,
   "songs": [
     {
       "id": "8671b9c8-a34b-4068-a3b6-196e3fbcb622",
@@ -122,6 +122,7 @@
       "artist": "Adoración La IBI",
       "key": "A",
       "bpm": 115,
+      "scrollSpeed": 4,
       "tags": [
         "worship",
         "reino",
@@ -137,8 +138,7 @@
       ],
       "content": "{title: Venga tu Reino}\n{artist: Adoración La IBI}\n{key: A}\n{bpm: 115}\n{time: 4/4}\n{tags: worship, reino, alabanza}\n\n{c: Intro (4x)}\n[A] [E] [F#m] [D]\n\n{start_of_verse: Verso 1}\n[E]Tu causa oh [D]Señor,\n[A]Llena nuestro ser\n[E]Que a Cristo el [D]Salvador\n[F#m]Puedan conocer\n[E]No a nosotros [D]Dios,\n[A/C#]La gloria sea a [D]Ti\n[E]La cruz ya nos [D]salvó\n[A/C#]Tu reino venga oh [D]Dios\n{end_of_verse}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Intro (2x)}\n[A] [E] [F#m] [D]\n\n{start_of_verse: Verso 2}\n[E]Danos Tu fuerza oh [D]Dios\n[A]Valor para hablar\n[E]Muestra Tu gran po[D]der\n[F#m]En la debilidad\n[E]Úsanos oh Se[D]ñor\n[A/C#]Como quieras [D]Tú\n[E]Por gracia Tu evan[D]gelio\n[A/C#]Llevaremos [D]Dios\n{end_of_verse}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Interludio (2x)}\n[A] [E] [F#m] [D]\n\n{start_of_chorus: Coro 2}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n{end_of_chorus}\n\n{start_of_chorus: Coro 1}\n[A]Venga Tu [E]reino Dios,\n[F#m]Se haga Tu vo[D]luntad\n[A]Sea Tu [E]nombre dado a co[F#m]nocer [D]\n[A]Se oiga Tu [E]canción en cada na[F#m]ción [D]\n[F#m]Hasta que Tu [E]obra hecha es[D]té\n[D]Venga Tu reino [A]Dios\n{end_of_chorus}\n\n{c: Salida (2x)}\n[A] [E] [F#m] [D]\n\n{c: Final}\n[A] [E] [D]",
       "createdAt": 1792869682003,
-      "updatedAt": 1792892949827,
-      "scrollSpeed": 4
+      "updatedAt": 1792892949827
     },
     {
       "id": "88a5c11a-9414-4fce-85fc-d2177757a9ea",
@@ -271,7 +271,6 @@
       "updatedAt": 1792773190345
     },
     {
-      "id": "ffe28b5b-2253-4c33-8a9f-cc9bd500617b",
       "name": "CULTO DOMINICAL",
       "date": "2026-10-25",
       "venue": "IEP LA TOMILLA",
@@ -279,10 +278,10 @@
         {
           "name": "Set 1",
           "songIds": [
-            "597c1064-5686-4c45-8409-f2f238431cbc",
             "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
-            "88a5c11a-9414-4fce-85fc-d2177757a9ea",
             "dc3271b2-a00a-4c38-9f71-aa04fe2935cc",
+            "597c1064-5686-4c45-8409-f2f238431cbc",
+            "88a5c11a-9414-4fce-85fc-d2177757a9ea",
             "b5edc665-dfe1-4df7-93e9-fc529428cc84",
             "11f39121-0037-45a6-9b1b-2a2ef35091a0",
             "8d216aed-d895-4500-b4c4-a1626d3dab6f",
@@ -290,9 +289,10 @@
           ]
         }
       ],
-      "expectedDuration": 1166400000,
+      "expectedDuration": 4199040000000,
+      "id": "ffe28b5b-2253-4c33-8a9f-cc9bd500617b",
       "createdAt": 1792881406995,
-      "updatedAt": 1792892286865
+      "updatedAt": 1792940973273
     }
   ]
 }

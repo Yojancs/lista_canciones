@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": 1792892343266,
+  "exportedAt": 1792894314508,
   "songs": [
     {
       "id": "8671b9c8-a34b-4068-a3b6-196e3fbcb622",
@@ -203,10 +203,10 @@
       "updatedAt": 1792880696991
     },
     {
-      "id": "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
       "title": "Gracia Sublime Es",
       "artist": "En Espíritu y En Verdad",
       "key": "B",
+      "bpm": 105,
       "tags": [
         "worship",
         "gracia",
@@ -220,9 +220,10 @@
           "size": 30461
         }
       ],
-      "content": "{title: Gracia Sublime Es}\n{artist: En Espíritu y En Verdad}\n{key: B}\n{tags: worship, gracia, cruz}\n\n{c: Intro}\n[B] [E] [B] [E]\n\n{start_of_verse: Primera Parte}\n[B]Quien rompe el poder del pecado\n[E]Su amor es fuerte y poderoso\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n\n[B]Conmueve al mundo con su estruendo\n[E]Y nos asombra con maravillas\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B] [E]\n{end_of_chorus}\n\n{start_of_verse: Segunda Parte}\n[B]Pusiste en orden todo el caos\n[E]Nos adoptaste como tus hijos\n[G#m]El rey de gloria [F#]el rey de gloria\n\n[B]El que gobierna con su justicia\n[E]Y resplandece con su belleza\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Interludio}\n[E] [B] [E]\n\n{start_of_bridge: Puente}\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Tú eres digno\n{end_of_bridge}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Final}\n[E] [B] [E] [B]",
+      "content": "{title: Gracia Sublime Es}\n{artist: En Espíritu y En Verdad}\n{key: B}\n{tags: worship, gracia, cruz}\n{bpm: 105}\n\n{c: Intro}\n[B] [E] [B] [E]\n\n{start_of_verse: Primera Parte}\n[B]Quien rompe el poder del pecado\n[E]Su amor es fuerte y poderoso\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n\n[B]Conmueve al mundo con su estruendo\n[E]Y nos asombra con maravillas\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B] [E]\n{end_of_chorus}\n\n{start_of_verse: Segunda Parte}\n[B]Pusiste en orden todo el caos\n[E]Nos adoptaste como tus hijos\n[G#m]El rey de gloria [F#]el rey de gloria\n\n[B]El que gobierna con su justicia\n[E]Y resplandece con su belleza\n[G#m]El rey de gloria [F#]el rey de majestad [E]\n{end_of_verse}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Interludio}\n[E] [B] [E]\n\n{start_of_bridge: Puente}\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n\n[B]Digno es el cordero de Dios\n[E]Digno es el rey que la muerte venció\n[B]Digno es el cordero de Dios\n[E]Tú eres digno\n{end_of_bridge}\n\n{start_of_chorus: Estribillo}\n[B]Gracia sublime es, [E]perfecto es tu amor\n[G#m]Tomaste mi lugar [F#]cargaste tu mi cruz\n[B]Tu vida diste ahí [E]y ahora libre soy\n[G#m]Jesús te adoro [F#]por lo que hiciste en mí [B]\n{end_of_chorus}\n\n{c: Final}\n[E] [B] [E] [B]",
+      "id": "c6341cb2-194e-4ffa-9c0f-a97b839b6ffd",
       "createdAt": 1792879547313,
-      "updatedAt": 1792891880549
+      "updatedAt": 1792894305988
     },
     {
       "id": "dc3271b2-a00a-4c38-9f71-aa04fe2935cc",
@@ -269,6 +270,7 @@
       "updatedAt": 1792773190345
     },
     {
+      "id": "ffe28b5b-2253-4c33-8a9f-cc9bd500617b",
       "name": "CULTO DOMINICAL",
       "date": "2026-10-25",
       "venue": "IEP LA TOMILLA",
@@ -288,7 +290,6 @@
         }
       ],
       "expectedDuration": 1166400000,
-      "id": "ffe28b5b-2253-4c33-8a9f-cc9bd500617b",
       "createdAt": 1792881406995,
       "updatedAt": 1792892286865
     }
